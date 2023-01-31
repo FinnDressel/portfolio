@@ -47,7 +47,12 @@ section {
 
 #about2{
     justify-content: left;
-    padding-left: 5px;
+    padding-left: 6px;
+}
+
+#projects2{
+    justify-content: left;
+    padding-left: 6px;
 }
 
 footer {
