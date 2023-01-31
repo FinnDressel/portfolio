@@ -36,6 +36,7 @@ nav a {
 main {
     flex-grow: 1;
     padding: 1em;
+    justify-content: center;
 }
 
 section {
