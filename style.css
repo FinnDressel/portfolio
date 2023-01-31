@@ -45,9 +45,8 @@ section {
     margin-bottom: 2em;
 }
 
-section #about{
-    display: flex;
-justify-content: left;
+#about2{
+    justify-content: left;
 }
 
 footer {
